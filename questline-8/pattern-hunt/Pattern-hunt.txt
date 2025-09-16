@@ -1,0 +1,9 @@
+Pattern-hunt
+
+2,6,12,20,30,42
+
+2 to 6 the difference is 4
+6 to 12 the difference is 6
+12 to 20 the difference is 8
+The difference increases by 2
+Therefore the sequence continues as 30, 42,...

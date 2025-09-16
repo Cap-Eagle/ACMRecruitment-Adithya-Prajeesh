@@ -1,0 +1,11 @@
+bridge-torch
+
+First, 1 minute and 2 minute will go together and cross the bridge (it will take 2 minutes)
+
+1 minute will bring the torch back to 7 minute and 10 minute (total 3 minutes now) and 7 minute and 10 minute will cross together (it takes 10 minutes)
+
+And 2 minute will bring the torch back to 1 minute (now the total minute taken is 15 minutes).
+
+Now 1 and 2 will again cross the bridge together (takes 2 minutes) and everybody have reached the other side.
+ 
+The total time taken should be 17 minutes. 

@@ -1,0 +1,7 @@
+River-riddle
+
+First we have to take the goat across the river alone and leave the wolf and cabbage together. Then 
+come back alone. Next take the wolf across the river and bring back the goat. After that leave the 
+goat and take the cabbage across the river. Then come back alone and take the goat across the river.
+
+Completed
